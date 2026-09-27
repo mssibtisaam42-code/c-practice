@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\bin\Debug\StudentInformation11.exe.config
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\bin\Debug\StudentInformation11.exe
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\bin\Debug\StudentInformation11.pdb
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.Form1.resources
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.Properties.Resources.resources
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.csproj.GenerateResource.cache
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.exe
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.pdb
+C:\Users\hp\Documents\StudentInformation11\StudentInformation11\obj\Debug\StudentInformation11.exe.config

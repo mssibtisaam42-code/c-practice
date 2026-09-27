@@ -1,0 +1,46 @@
+Local Variable Practice
+
+This program demonstrates how to use a local variable in C#.
+
+The program creates a variable called myName. It gets the user’s name from a TextBox and stores it in the variable.
+
+What this code demonstrates:
+
+* Creating a variable
+* Using a String
+* Getting text from a TextBox
+* Storing data in a variable
+
+
+
+Int.Parse
+
+Int.Parse Practice
+
+This program demonstrates how to use int.Parse() in C#.
+
+The program gets the number of hours worked from a TextBox. It converts the text into an integer and displays the result in a MessageBox.
+
+What this code demonstrates:
+
+* Integer variables
+* Using int.Parse()
+* Converting text to an integer
+* Using MessageBox
+
+
+
+ String Concatenation
+
+String Concatenation Practice
+
+This program demonstrates how to combine two strings in C#.
+
+The program gets the first name and last name from two TextBoxes. It combines them to create a full name and displays it in a Label.
+
+What this code demonstrates:
+
+* String variables
+* First name and last name
+* Combining strings
+* Using TextBox and Label

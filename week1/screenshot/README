@@ -1,0 +1,40 @@
+This code snippet defines a button click event handler.
+When the user clicks the button, the MessageBox.Show() method is executed to display a pop-up message on the screen.
+Screenshot Description
+The screenshot shows the implementation of the button click event handler and the message dialog displayed by the application.
+
+This code segment configures an event handler to display a "Thank You So Much" pop-up message upon a button click.
+The messageButton_Click method handles the click event, while MessageBox.Show() displays the message box on the screen.
+Screenshot Details
+The screenshot demonstrates the messageButton_Click event handler implementation alongside the output window displaying the "Thank You So Much" message.  
+
+This code modifies the text displayed by a Label control.
+
+The Text property holds the label's string value, and the assignment operator (=) updates it to "Hellow gays".
+
+### Screenshot Overview
+
+The screenshot illustrates the implementation logic for dynamically changing the Label text.
+
+
+## Code 4: Updating Label Text
+
+This code modifies the text displayed by a Label control.
+
+The `Text` property holds the label's string value, and the assignment operator (`=`) updates it to "Hello World".
+
+### Screenshot Overview
+
+The screenshot illustrates the implementation logic for dynamically changing the Label text.
+
+## PictureBox Visibility
+
+This code controls the visibility of two PictureBox controls.
+
+The `Visible` property is set to `true` to show the back image and `false` to hide the face image.
+
+
+this.Close() closes the current form. If the current form is the main form of the application, closing it will normally cause the application to exi
+
+
+Application.Exit() stops all message loops of the application and closes the Windows Forms application.
