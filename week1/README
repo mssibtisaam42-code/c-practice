@@ -1,52 +1,127 @@
+
+
 TOPICS
 
-1.1 Objects 1.2 The Program Development Process 1.8 Getting Started with Visual Studio 2.1 Getting Started with Forms and Controls 2.2 Creating the G U I for Your First Visual C# Application 2.3 Introduction to C# code 2.4 Writing Code for the Hello World Application 2.5 Label Controls 2.6 Making Sense of IntelliSense 2.7 PictureBox Controls 2.8 Comments, Blank Lines, and Indentation 2.9 Writing the Code to Close an Application’s Form 2.10 Dealing with Syntax Errors
+1.1 Objects
+1.2 Program Development Process
+1.8 Introduction to Visual Studio
+2.1 Forms and Controls
+2.2 Creating a GUI in Visual C#
+2.3 Introduction to C# Code
+2.4 Writing Code for a Hello World Program
+2.5 Label Controls
+2.6 Understanding IntelliSense
+2.7 PictureBox Controls
+2.8 Comments, Blank Lines, and Indentation
+2.9 Closing an Application Form
+2.10 Handling Syntax Errors
 
 OBJECTS
 
-An object is a program component that contains data and performs operations, Programs use objects to perform specific tasks. Most programming languages use object-oriented programming in which a program component is called an “object” Program objects have properties (or fields) and methods Properties – data stored in an object Methods – the operations an object can perform
+An object is a part of a program that stores information and can perform actions.
 
-Getting Started with Visual Studio
+Programs use objects to complete different tasks. C# is an object-oriented programming language, which means it uses objects as important parts of a program.
 
-Visual Studio is a professional integrated development environment (I D E) The Visual Studio Environment includes: Designer Window Solution Explorer Window Properties Window
+Objects have two main parts:
 
-Toolboxs
-
-Toolbox is a window for selecting controls to use in an application Typically appears on the left side of Visual Studio environment Often is in Auto Hide mode Toolbox is a window for selecting controls to use in an application Divided into sections such as “All Windows Forms” and “Common Controls
-
+* Properties – information or data that belongs to an object.
+* Methods – actions that an object can perform.
 
 CONTROLS
 
-Objects that are visible in a program G U I are known as controls Commonly used controls are Labels, Buttons, and TextBoxes They enhance the functionality of your programs There are invisible objects in a G U I such as Timers, and OpenFileDialog A class is code that describes a particular type of object
+Controls are objects that users can see and use in a program’s GUI (Graphical User Interface).
 
-Tooltips
+Some common controls are:
 
-A Tooltip is a small box that pops up when you hover the mouse pointer over an item on the toolbar or toolbox
+* Label
+* Button
+* TextBox
 
-Specifying the Project Name
+Controls make programs easier and more useful.
 
-You can specify the project name the first time you save the project.
+Some objects are not visible on the GUI. Examples include:
 
-Displaying the Designer
+* Timer
+* OpenFileDialog
 
-Sometimes when you open an existing project, the project’s form will not be automatically displayed in the Designer You should: Right click Form1.c s in the Solution Explorer Click View Designer in the pop-up menu
+A class is a piece of code that defines the structure and behavior of a type of object.
 
-A form in Designer is enclosed with thin dotted lines called the bounding box The bounding box has small sizing handles; you can use them to resize the form
+GETTING STARTED WITH VISUAL STUDIO
 
-Adding Controls to a Form
+Visual Studio is a professional IDE (Integrated Development Environment) used to create and develop programs.
 
-In the Toolbox, select the Control (e.g. a Button), then you can either: double click the Button control click and drag the Button control to the form On the form, you can resize the control using its bounding box and sizing handles move the control’s position by dragging it change its properties in the Properties window
+The main parts of Visual Studio include:
 
-Deleting a Control
+* Designer Window
+* Solution Explorer
+* Properties Window
+* Toolbox
 
-Deleting a control is simple: you select it and then press the key on the keyboard
+TOOLBOX
 
-Rules for Naming Controls
+The Toolbox is used to choose controls that you want to add to your application.
 
-Controls’ are identified by their names in code Control names are also known as identifiers. The naming rules are: The first character must be a letter (lower or uppercase, does not matter) or an underscore (_) All other characters can be alphanumerical characters or underscores The name cannot contain spaces
+It is usually located on the left side of Visual Studio.
 
-Introduction to c sharp Code
+The Toolbox contains different groups, such as:
 
-code is primarily organized in three ways: namespaces, classes, and methods
+* All Windows Forms
+* Common Controls
 
-Namespace: a container that holds classes Class: a container that holds methods Method: a group of one or more programming statements that perform some operations A file that contains program code is called a source code file
+TOOLTIPS
+
+A Tooltip is a small information box that appears when you place the mouse pointer over an item in Visual Studio.
+
+It helps you understand what a button or tool does.
+
+SPECIFYING THE PROJECT NAME
+
+When you save a new project for the first time, you can choose the project name.
+
+The project name helps you identify your application.
+
+DISPLAYING THE DESIGNER
+
+Sometimes a form does not automatically appear in the Designer when you open an existing project.
+
+To open it:
+
+1. Right-click Form1.cs in Solution Explorer.
+2. Select View Designer.
+
+The form will then appear in the Designer.
+
+A form in the Designer has a bounding box around it. The box has small handles that allow you to resize the form.
+
+ADDING CONTROLS TO A FORM
+
+You can add controls from the Toolbox to your form.
+
+For example, to add a Button:
+
+* Double-click the Button control, or
+* Drag the Button from the Toolbox onto the form.
+
+After adding a control, you can:
+
+* Resize it.
+* Move it.
+* Change its properties.
+
+DELETING A CONTROL
+
+To delete a control:
+
+1. Select the control.
+2. Press the Delete key on the keyboard.
+
+RULES FOR NAMING CONTROLS
+
+Controls have names that are used to identify them in C# code.
+
+The main naming rules are:
+
+* The first character must be a letter or an underscore _.
+* The other characters can be letters, numbers, or underscores.
+* Spaces are not allowed in names.
+
