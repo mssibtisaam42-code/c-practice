@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.Form1.resources
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ElectricityBillCalculator\bin\Debug\net8.0-windows\ElectricityBillCalculator.exe
+C:\Users\hp\Desktop\ElectricityBillCalculator\bin\Debug\net8.0-windows\ElectricityBillCalculator.deps.json
+C:\Users\hp\Desktop\ElectricityBillCalculator\bin\Debug\net8.0-windows\ElectricityBillCalculator.runtimeconfig.json
+C:\Users\hp\Desktop\ElectricityBillCalculator\bin\Debug\net8.0-windows\ElectricityBillCalculator.dll
+C:\Users\hp\Desktop\ElectricityBillCalculator\bin\Debug\net8.0-windows\ElectricityBillCalculator.pdb
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.dll
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\refint\ElectricityBillCalculator.dll
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.pdb
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ElectricityBillCalculator.genruntimeconfig.cache
+C:\Users\hp\Desktop\ElectricityBillCalculator\obj\Debug\net8.0-windows\ref\ElectricityBillCalculator.dll
