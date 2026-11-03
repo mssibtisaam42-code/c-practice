@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ibtizamineta\\Desktop\\ass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE5F5F-7308-47C5-8706-C698A1A65B10}|ass\\ass.csproj|c:\\users\\ibtizamineta\\desktop\\ass\\ass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9ABE5F5F-7308-47C5-8706-C698A1A65B10}|ass\\ass.csproj|solutionrelative:ass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABE5F5F-7308-47C5-8706-C698A1A65B10}|ass\\ass.csproj|c:\\users\\ibtizamineta\\desktop\\ass\\ass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABE5F5F-7308-47C5-8706-C698A1A65B10}|ass\\ass.csproj|solutionrelative:ass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ibtizamineta\\Desktop\\ass\\ass\\Form1.cs",
+              "RelativeDocumentMoniker": "ass\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ibtizamineta\\Desktop\\ass\\ass\\Form1.cs",
+              "RelativeToolTip": "ass\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:19:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ibtizamineta\\Desktop\\ass\\ass\\Form1.cs",
+              "RelativeDocumentMoniker": "ass\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ibtizamineta\\Desktop\\ass\\ass\\Form1.cs [Design]",
+              "RelativeToolTip": "ass\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:14:39.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
