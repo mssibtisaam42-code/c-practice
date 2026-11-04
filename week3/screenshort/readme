@@ -1,0 +1,106 @@
+
+1. CHECK AGE — THE if-else STATEMENT
+
+This example uses a decision structure to check a person's age.
+
+The if statement tests a Boolean expression. The expression checks whether the age is greater than or equal to 18.
+
+If the condition is true, the program displays that the person is an adult.
+
+If the condition is false, the else section runs and the program displays that the person is not an adult.
+
+This is an if-else decision structure because it provides two alternative paths of execution. Only one path is selected depending on whether the condition is true or false.
+
+Chapter theory:
+- A decision structure executes statements only under certain circumstances.
+- A specific action is performed only if a certain condition exists.
+- An if-else statement executes one block when its Boolean expression is true and another block when it is false.
+- The >= relational operator means greater than or equal to.
+
+
+2. CHECK SALES — THE if STATEMENT
+
+This example checks whether the sales amount is greater than 50,000 and decides whether to give a bonus.
+
+The program starts with a bonus value of zero. It then tests the condition that sales must be greater than 50,000.
+
+If the condition is true, the bonus is changed to 500.
+
+If the condition is false, the statements inside the if structure are skipped, so the bonus remains zero.
+
+This is a simple decision structure because it has only one alternative path. There is no else section.
+
+Chapter theory:
+- The if statement executes its statements only when its Boolean expression is true.
+- A Boolean expression can be evaluated as either true or false.
+- The > relational operator means greater than.
+
+
+3. CHECK LOAN — NESTED DECISION STRUCTURES
+
+This example checks two requirements before deciding whether a person qualifies for a loan.
+
+First, the program checks whether the salary is at least 2,000.
+
+If the salary condition is false, the program displays that the minimum salary requirement is not met.
+
+If the salary condition is true, the program moves to another decision inside the first decision. This second decision checks whether the person has worked at the current job for at least two years.
+
+If the years-at-job condition is true, the person qualifies for the loan.
+
+If the years-at-job condition is false, the program displays that the minimum years at the current job requirement is not met.
+
+This is called a nested decision structure because one decision structure is placed inside another. It allows the program to test more than one condition in order.
+
+Chapter theory:
+- Nested means one inside another.
+- Nested decision structures can be used to test more than one condition.
+- Each condition determines which path the program follows.
+- The >= relational operator means greater than or equal to.
+
+
+4. SHOW GRADE — THE if-else-if STATEMENT
+
+This example determines a grade by checking a student's score against several conditions.
+
+The program checks the conditions in order:
+
+- A score of 90 or higher receives Grade A.
+- If the first condition is false, the program checks whether the score is 80 or higher. If true, it displays Grade B.
+- If that condition is also false, the program checks whether the score is 70 or higher. If true, it displays Grade C.
+- If none of these conditions is true, the else section displays that improvement is needed.
+
+The if-else-if structure evaluates multiple conditions to make a final decision. The program follows the first condition that is true, and the remaining alternatives are not selected.
+
+Chapter theory:
+- The if-else-if statement evaluates multiple conditions to make the final decision.
+- A decision structure selects the path of execution according to the conditions.
+- The >= relational operator means greater than or equal to.
+
+
+5. CHECK TEMPERATURE — LOGICAL OPERATORS
+
+This example demonstrates three logical operators: AND (&&), OR (||), and NOT (!).
+
+AND (&&)
+
+The first condition uses AND to connect two Boolean expressions:
+- The temperature must be less than 20.
+- The number of minutes must be greater than 12.
+
+Both conditions must be true for the complete expression to be true. If both are true, the program displays the message that both conditions are true.
+
+OR (||)
+
+The second condition uses OR to connect two Boolean expressions:
+- The temperature must be less than 20, OR
+- The temperature must be greater than 100.
+
+At least one of the two conditions must be true. One condition or both conditions can be true for the complete expression to be true.
+
+NOT (!)
+
+The third condition uses NOT to reverse the truth of a Boolean expression.
+
+The expression inside NOT checks whether the temperature is greater than 100. The NOT operator reverses that result. Therefore, the complete condition is true when the temperature is not above 100.
+
