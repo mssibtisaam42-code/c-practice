@@ -1,0 +1,100 @@
+
+## 1. The while Loop
+
+A `while` loop repeats a statement or group of statements as long as its condition is true.
+
+- A counter variable is created and given an initial value.
+- Before each repetition, the loop checks its condition.
+- If the condition is true, the statements inside the loop run.
+- The counter is increased so that the condition can eventually become false.
+- When the condition becomes false, the loop stops.
+
+
+
+ A `while` loop checks its condition before running the body. If the condition is false at the beginning, the body does not run at all.
+
+---
+
+## 2. Prefix and Postfix Operators
+
+The increment operator (`++`) increases a variable's value by 1. The position of the operator determines whether the old or new value is used in an expression.
+
+### Postfix
+
+In postfix mode, the operator comes after the variable.
+
+- The current value is used first.
+- After that, the variable is increased by 1.
+
+.
+
+### Prefix
+
+In prefix mode, the operator comes before the variable.
+
+- The variable is increased by 1 first.
+- The new value is then used in the expression.
+
+**In the provided example:** the variable changes from 5 to 6 first, so the result is 6.
+
+**Remember:**
+- Postfix: use the old value, then increment.
+- Prefix: increment first, then use the new value.
+
+---
+
+## 3. The do-while Loop
+
+A `do-while` loop repeats statements while its condition is true.
+
+The main difference between `do-while` and `while` is when the condition is checked:
+
+- `while` checks the condition before executing the loop body.
+- `do-while` executes the loop body first and checks the condition afterward.
+
+Because the body runs before the condition is checked, a `do-while` loop always executes at least once.
+
+
+---
+
+## 4. The for Loop
+
+A `for` loop is useful when the number of repetitions is controlled by a counter.
+
+A `for` loop has three main parts:
+
+1. **Initialization:** gives the counter its starting value. This happens once, at the beginning.
+2. **Condition/Test:** determines whether the loop should continue. The body runs when the condition is true.
+3. **Update:** changes the counter after each repetition, usually by increasing or decreasing it.
+
+The `for` loop checks its condition before each iteration.
+
+### Counting from 0 to 4
+
+In the provided example, the counter starts at 0 and continues while it is less than 5. The message “Hello” is therefore displayed five times.
+
+### Counting by 10
+
+A counter does not have to increase by only 1. It can increase by 10 each time.
+
+In the provided example, the values begin at 0 and continue up to 100, increasing by 10 each time.
+
+### Counting Backward
+
+A counter can also decrease instead of increase.
+
+In the provided example, the counter starts at 10 and decreases by 1 each time until it reaches 0.
+
+---
+
+## 5. Increment and Decrement
+
+Increment means increasing a variable's value by 1.
+
+Decrement means decreasing a variable's value by 1.
+
+- **Increment (`++`):** adds 1 to the current value.
+- **Decrement (`--`):** subtracts 1 from the current value.
+
+These operators are commonly used with counter variables in loops.
+
